@@ -1,0 +1,41 @@
+body{
+    background-color: #C6CACB;
+    font-family: 'Oswald', sans-serif;
+}
+h1,h2,h4{
+    text-align: center;
+}
+div.gallery img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+div.gallery p{
+    text-align: center;
+}
+div.info{
+    margin-top: 10px;
+    text-align: center;
+}
+ul {
+    max-width: 50%;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.5;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  a {
+      color: black;
+      text-decoration: none;
+  }
+  a:hover{
+      cursor: pointer;
+  }
+  a:visited {
+    color: #74638f;
+  }
+
